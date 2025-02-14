@@ -3,9 +3,9 @@ import ImageCarousel from './ImageCarousel';
 import './App.css';
 
 const imageUrls = [
-  "./src/assets/course_1.jpg",
-  "./src/assets/course_2.jpg",
-  "./src/assets/course_3.jpg"
+  "course_1.jpg",
+  "course_2.jpg",
+  "course_3.jpg"
 ];
 
 function App() {
